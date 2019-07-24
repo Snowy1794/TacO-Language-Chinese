@@ -1,6 +1,6 @@
 ﻿<TacOLanguageData language="繁體中文">
   <token key="filtermarkers" value="標記選擇"/>
-  <token key="togglepoidistance" value="POI距離"/>
+  <token key="togglepoidistance" value="顯示標記距離"/>
   <token key="toggleherdicons" value="屛幕邊緣顯示圖標"/>
   <token key="toggledrawwvwnames" value="顯示wvw物品名稱"/>
   <token key="togglefadeoutbubble" value="在角色附近的線路透明度降低"/>
@@ -10,8 +10,8 @@
   <token key="toggleranges" value="顯示距離"/>
   <token key="toggleinfoline" value="顯示調試文本"/>
   <token key="togglecompass" value="顯示指南針"/>
-  <token key="toggleloctimers" value="顯示本地時間"/>
-  <token key="togglehpgrid" value="顯示血條網格"/>
+  <token key="toggleloctimers" value="顯示十人本計時器"/>
+  <token key="togglehpgrid" value="顯示十人本血條網格"/>
   <token key="toggleupdatecheck" value="自動檢測TacO版本更新"/>
   <token key="togglemousehighlight" value="鼠標指針高亮顯示"/>
   <token key="togglemouseoutline" value="鼠標指針高亮顯示加粗"/>
@@ -52,14 +52,14 @@
   <token key="add_marker" value="新增標記"/>
   <token key="remove_marker" value="刪除標記"/>
   <token key="action_key" value="激活密碼"/>
-  <token key="edit_notepad" value="標記記事本"/>
+  <token key="edit_notepad" value="編輯記事本"/>
   <token key="*toggle_trail_recording" value="開始/停止跟踪記錄"/>
   <token key="*pause_trail_recording" value="暫停/繼續跟踪記錄"/>
   <token key="*remove_last_trail" value="刪除最後一個路徑段"/>
   <token key="*resume_trail" value="通過創建新部分恢復跟踪"/>
-  <token key="apikeys" value="API密碼"/>
-  <token key="gw2apikey" value="Gw2 API密碼"/>
-  <token key="ts3controlplugin" value="Teamspeak 密碼"/>
+  <token key="apikeys" value="API KEY"/>
+  <token key="gw2apikey" value="Gw2 API KEY"/>
+  <token key="ts3controlplugin" value="Teamspeak KEY"/>
   <token key="openraidprogress" value="打開十人本進度界面"/>
   <token key="closeraidprogress" value="關閉十人本進度界面"/>
   <token key="opendungeonprogress" value="打開老八本進度界面"/>
@@ -72,17 +72,17 @@
   <token key="apierror2" value="API錯誤"/>
   <token key="apierror3_progression" value="API無效"/>
   <token key="apierror4_progression" value="無訪問權限"/>
-  <token key="apikeynotset1" value="你需要設置Gw2 API密碼"/>
-  <token key="apikeynotset2" value="在TacO菜單中"/>
+  <token key="apikeynotset1" value="You need to set a GW2 API key"/>
+  <token key="apikeynotset2" value="in the TacO menu."/>
   <token key="ts3_clientquery_plugin" value="TS3 ClientQuery Plugin"/>
   <token key="guild_wars_2" value="Guild Wars 2"/>
   <token key="new_build" value="TacO有新版本出現！"/>
   <token key="press_to_bind" value="按下需要更改連接的鍵"/>
-  <token key="enter_api" value="輸入你的"/>
-  <token key="below_and_press" value="API密鑰然後按回車鍵:"/>
-  <token key="ts3_help_1" value="你可以找到你的密碼在TS3的"/>
+  <token key="enter_api" value="Enter your"/>
+  <token key="below_and_press" value="API key below and press enter:"/>
+  <token key="ts3_help_1" value="You can find the API Key in TeamSpeak 3 under"/>
   <token key="ts3_help_2" value="Tools -> Options -> Addons -> ClientQuery -> Settings"/>
-  <token key="gw2_api_help_1" value="你可以創建一個API密碼在"/>
+  <token key="gw2_api_help_1" value="You can create an API key at"/>
   <token key="compassnorth" value="N"/>
   <token key="compasseast" value="E"/>
   <token key="compasssouth" value="S"/>
@@ -90,10 +90,10 @@
   <token key="ts3authfail1" value="TS3 Authentication failed."/>
   <token key="ts3authfail2" value="The TS3 API key provided is"/>
   <token key="ts3authfail3" value="invalid. Please set a valid"/>
-  <token key="ts3authfail4" value="在TacO菜單中"/>
+  <token key="ts3authfail4" value="one in the TacO menu."/>
   <token key="ts3nokeyset1" value="TS3 Authentication failed."/>
   <token key="ts3nokeyset2" value="You need to set a TS3 API key"/>
-  <token key="ts3nokeyset3" value="在TacO菜單中"/>
+  <token key="ts3nokeyset3" value="in the TacO menu."/>
   <token key="action" value="激活"/>
   <token key="currently_bound" value="當前連接的鍵"/>
   <token key="tacosettings" value="TacO設置"/>
